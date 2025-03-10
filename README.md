@@ -1,5 +1,5 @@
 # text-based-paint
-This program (IP) is a interpretation of Microsoft paint in a text-based format using command line. 
+This program (IP) is an interpretation of Microsoft paint in a text-based format using command line. 
 
 ## Commands are as follows: 
 ### write
